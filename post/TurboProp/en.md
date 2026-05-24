@@ -1,6 +1,7 @@
+---
 title: "C-130, T56, R391 and Variable-Pitch Propeller Logic"
 date: "May 21, 2026"
-readTime: "15 min read"
+readTime: "20 min read"
 tags: "N/A"
 ---
 
