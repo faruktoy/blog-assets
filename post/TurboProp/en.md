@@ -1,4 +1,11 @@
+title: "C-130, T56, R391 and Variable-Pitch Propeller Logic"
+date: "May 21, 2026"
+readTime: "15 min read"
+tags: "N/A"
+---
+
 # C-130, T56, R391 and Variable-Pitch Propeller Logic
+> A 3D-printed educational model simulating the T56 engine and constant-speed propeller control logic, NTS, feather, and air start cycles.
 
 ## A Technical Study Through a 3D Turboprop Demonstrator Model
 

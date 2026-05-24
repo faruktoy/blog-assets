@@ -1,8 +1,8 @@
 ---
-title: FDM Baskılarda Yüzey Kalitesini Artırmak: PLA vs ABS vs PETG
-date: 30 Nisan 2026
-readTime: 12 dk okuma
-tags: 3D Baskı, FDM, Yüzey Pürüzlülüğü, Ra, Araştırma
+title: "FDM Baskılarda Yüzey Kalitesini Artırmak: PLA vs ABS vs PETG"
+date: "30 Nisan 2026"
+readTime: "12 dk okuma"
+tags: "3D Baskı, FDM, Yüzey Pürüzlülüğü, Ra, Araştırma"
 ---
 
 # FDM Baskılarda Yüzey Kalitesini Artırmak: PLA vs ABS vs PETG

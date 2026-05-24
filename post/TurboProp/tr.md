@@ -1,4 +1,12 @@
+---
+title: "C-130, T56, R391 ve Değişken Hatveli Pervane Mantığı"
+date: "21 Mayıs 2026"
+readTime: "~20 dk okuma"
+tags: "N/A"
+---
+
 # C-130, T56, R391 ve Değişken Hatveli Pervane Mantığı
+> T56 motoru ve sabit hız pervane sistemini canlandıran 3D baskılı eğitim modeli. Kontrol mantığı, NTS, feather ve air start döngüleri.
 
 ## 3D Turboprop Demonstratör Modeli Üzerinden Teknik Bir İnceleme
 

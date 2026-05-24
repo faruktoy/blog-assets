@@ -1,8 +1,8 @@
 ---
-title: Improving Surface Quality in FDM Prints: PLA vs ABS vs PETG
-date: April 30, 2026
-readTime: 12 min read
-tags: 3D Printing, FDM, Surface Roughness, Ra, Research
+title: "Improving Surface Quality in FDM Prints: PLA vs ABS vs PETG"
+date: "April 30, 2026"
+readTime: "12 min read"
+tags: "3D Printing, FDM, Surface Roughness, Ra, Research"
 ---
 
 # Improving Surface Quality in FDM Prints: PLA vs ABS vs PETG
