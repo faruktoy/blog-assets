@@ -23,10 +23,12 @@ The reduction gearbox is a critical part of this system. While the turbine side 
 
 In large turboprop aircraft such as the C-130, this power transfer is not just a mechanical connection. The blade angle, or how much the propeller “bites” the air, also determines how much power the propeller absorbs. For that reason, the propeller is not a passive rotating part; it is an actively controlled system that transfers engine power into the air.
 
+![Turboprop Power Transfer Diagram](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/turboprop-power-transfer.png)
 <!-- DIAGRAM PLACEHOLDER: Turboprop Power Transfer Diagram
      Description: Simple schematic showing power transfer between the air inlet, compressor, combustion chamber, turbine, reduction gearbox, and propeller
      SearchKeywords: turboprop engine power flow reduction gearbox propeller diagram -->
 
+![Power Distribution](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/turboprop-power-thrust-vs-speed.png)
 <!-- PLOT PLACEHOLDER: Power Distribution
      Description: Bar or donut chart showing that most turbine output goes to propeller shaft power, while a smaller portion remains as residual jet thrust
      Axes: Category = Propeller shaft power / Residual jet thrust | Value = Approximate ratio (%)

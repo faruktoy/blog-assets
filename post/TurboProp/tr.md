@@ -25,11 +25,12 @@ Buradaki redüksiyon dişli kutusu kritik bir parçadır. Türbin tarafı çok y
 
 C-130 gibi büyük turboprop uçaklarda bu güç aktarımı sadece mekanik bir bağlantı değildir. Pervanenin havayı ne kadar “ısırdığı” yani pal açısı da sistemin ne kadar güç emeceğini belirler. Bu nedenle pervane, motor gücünü havaya aktaran pasif bir döner parça değil, aktif olarak kontrol edilen bir sistemdir.
 
-
+![Turboprop Güç Aktarım Şeması](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/turboprop-power-transfer.png)
 <!-- DİYAGRAM TUTUCU: Turboprop Güç Aktarım Şeması
      Açıklama: Air inlet, kompresör, yanma odası, türbin, redüksiyon dişli kutusu ve pervane arasındaki güç aktarımını gösteren basit şema
      SearchKeywords: turboprop engine power flow reduction gearbox propeller diagram -->
 
+![Güç Dağılımı](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/turboprop-guc-itki-hiz-grafigi.png)
 <!-- GRAFİK TUTUCU: Güç Dağılımı
      Açıklama: Turboprop motorda türbinden elde edilen gücün büyük kısmının pervane şaftına, küçük kısmının ise jet itişine gittiğini gösteren pasta veya çubuk grafik
      Eksenler: Kategori = Pervane şaft gücü / Kalan jet itişi | Değer = Yaklaşık oran (%)
