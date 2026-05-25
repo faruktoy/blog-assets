@@ -18,8 +18,8 @@
     "category": "aviation",
     "mdPath": "post/TurboProp",
     "mdFiles": { "tr": "tr.md", "en": "en.md" },
-    "tr": { "title": "C-130 Turboprop Demonstratör: Sabit Hız Pervane Sistemi", "desc": "T56 motoru ve sabit hız pervane sistemini canlandıran 3D baskılı eğitim modeli. Kontrol mantığı, NTS, feather ve air start döngüleri.", "date": "Mayıs 2026", "readTime": "~15 dk" },
-    "en": { "title": "C-130 Turboprop Demonstrator: Constant-Speed Propeller System", "desc": "A 3D-printed educational model simulating the T56 engine and constant-speed propeller control logic, NTS, feather, and air start cycles.", "date": "May 2026", "readTime": "~15 min" }
+    "tr": { "title": "C-130 Turboprop Demonstratör: Sabit Hız Pervane Sistemi", "desc": "T56 motoru ve sabit hız pervane sistemini canlandıran 3D baskılı eğitim modeli. Kontrol mantığı, NTS, feather ve air start döngüleri.", "date": "21 Mayıs 2026", "readTime": "~15 dk" },
+    "en": { "title": "C-130 Turboprop Demonstrator: Constant-Speed Propeller System", "desc": "A 3D-printed educational model simulating the T56 engine and constant-speed propeller control logic, NTS, feather, and air start cycles.", "date": "May 21, 2026", "readTime": "~15 min" }
   },
   {
     "slug": "abs-cf-prototipleme",
