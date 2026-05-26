@@ -40,7 +40,7 @@ C-130 gibi büyük turboprop uçaklarda bu güç aktarımı sadece mekanik bir b
 
 Sabit hatveli bir pervanede pal açısı değişmez ve optimum hücum açısı genellikle 2 ile 4 derece arasındadır. Bu, basit ve dayanıklı bir çözümdür; ancak Pal açısı sabit olduğu için pervane yalnızca belirli bir hız ve devir kombinasyonunda en verimli noktasında çalışabilir. Kalkış, tırmanış, seyir, iniş ve motor arızası gibi durumlarda pervaneden beklenen davranış değişir.
 
-Değişken hatveli pervanede ise paller kendi ekseni etrafında döndürülerek farklı hücum açılarına getirilebilir. Düşük pal açısında pervane havayı daha az yükler ve daha kolay döner. Yüksek pal açısında ise pervane her turda daha fazla hava ile etkileşime girer ve daha fazla aerodinamik yük oluşturur.09_amtp_ch7_p2fig7-3
+Değişken hatveli pervanede ise paller kendi ekseni etrafında döndürülerek farklı hücum açılarına getirilebilir. Düşük pal açısında pervane havayı daha az yükler ve daha kolay döner. Yüksek pal açısında ise pervane her turda daha fazla hava ile etkileşime girer ve daha fazla aerodinamik yük oluşturur.
 
 Bu mantık otomobillerdeki vites oranına benzetilebilir. Düşük pal açısı, düşük vitese benzer: motor daha kolay devirlenir. Yüksek pal açısı ise daha yüksek vitese benzer: sistem daha fazla yük taşır ama uygun hızda daha verimli çalışır.
 
