@@ -40,11 +40,11 @@ C-130 gibi büyük turboprop uçaklarda bu güç aktarımı sadece mekanik bir b
 
 Sabit hatveli bir pervanede pal açısı değişmez ve optimum hücum açısı genellikle 2 ile 4 derece arasındadır. Bu, basit ve dayanıklı bir çözümdür; ancak Pal açısı sabit olduğu için pervane yalnızca belirli bir hız ve devir kombinasyonunda en verimli noktasında çalışabilir. Kalkış, tırmanış, seyir, iniş ve motor arızası gibi durumlarda pervaneden beklenen davranış değişir.
 
-Değişken hatveli pervanede ise paller kendi ekseni etrafında döndürülerek farklı hücum açılarına getirilebilir. Düşük pal açısında pervane havayı daha az yükler ve daha kolay döner. Yüksek pal açısında ise pervane her turda daha fazla hava ile etkileşime girer ve daha fazla aerodinamik yük oluşturur.
+Değişken hatveli pervanede ise paller kendi ekseni etrafında döndürülerek farklı hücum açılarına getirilebilir. Düşük pal açısında pervane havayı daha az yükler ve daha kolay döner. Yüksek pal açısında ise pervane her turda daha fazla hava ile etkileşime girer ve daha fazla aerodinamik yük oluşturur.09_amtp_ch7_p2fig7-3
 
 Bu mantık otomobillerdeki vites oranına benzetilebilir. Düşük pal açısı, düşük vitese benzer: motor daha kolay devirlenir. Yüksek pal açısı ise daha yüksek vitese benzer: sistem daha fazla yük taşır ama uygun hızda daha verimli çalışır.
 
-
+![Pal Açısı ve Feather Görünümü](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/09_amtp_ch7_p2fig7-3.png)
 <!-- DİYAGRAM TUTUCU: Pal Açısı ve Feather Görünümü
      Açıklama: Düşük pitch, yüksek pitch ve full feather konumlarını yandan ve/veya kesit görünümle anlatan teknik diyagram
      SearchKeywords: variable pitch propeller low pitch high pitch feather diagram -->
@@ -72,6 +72,7 @@ Bu nedenle modelde iki farklı RUN mantığı kullanmak daha doğru oldu. Birinc
      Açıklama: Constant-speed propeller governor'ın pilot valve, flyweight ve blade angle feedback döngüsünü gösteren şematik diyagram
      SearchKeywords: constant speed propeller governor pilot valve flyweight schematic -->
 
+![RPM vs Power Lever Pozisyonu](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/constant-speed-faa-pitch-karsilastirma.png)
 <!-- GRAFİK TUTUCU: RPM vs Power Lever Pozisyonu
      Açıklama: Constant-speed sistemde Power Lever ileri alındıkça RPM'in sabite yakın kaldığını, pal açısı ve torkun arttığını gösteren çizgi grafik
      Eksenler: X = Power Lever pozisyonu (%) | Y₁ = Pervane RPM | Y₂ = Pal açısı (°) | Y₃ = Tork (ft-lbs)

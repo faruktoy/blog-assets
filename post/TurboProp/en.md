@@ -42,6 +42,7 @@ In a variable-pitch propeller, the blades can rotate around their own axes and m
 
 This idea can be compared to gear ratios in a car. Low blade angle is like a low gear: the engine can accelerate more easily. High blade angle is like a higher gear: the system carries more load but works more efficiently at the right speed.
 
+![Blade Angle and Feather View](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/09_amtp_ch7_p2fig7-3.png)
 <!-- DIAGRAM PLACEHOLDER: Blade Angle and Feather View
      Description: Technical diagram explaining low pitch, high pitch, and full feather positions using side-view and/or cutaway-style propeller views
      SearchKeywords: variable pitch propeller low pitch high pitch feather diagram -->
@@ -68,6 +69,7 @@ For this reason, it made more sense to use two different RUN logics in the model
      Description: Schematic diagram showing the constant-speed propeller governor's pilot valve, flyweight, and blade angle feedback loop
      SearchKeywords: constant speed propeller governor pilot valve flyweight schematic -->
 
+![Blade Angle and Feather View](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/constant-speed-faa-pitch-comparison.png)
 <!-- PLOT PLACEHOLDER: RPM vs Power Lever Position
      Description: Line graph showing that RPM remains nearly constant in a constant-speed system as the Power Lever advances, while blade angle and torque increase
      Axes: X = Power Lever position (%) | Y₁ = Propeller RPM | Y₂ = Blade angle (°) | Y₃ = Torque (ft-lbs)
