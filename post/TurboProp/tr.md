@@ -44,11 +44,7 @@ Değişken hatveli pervanede ise paller kendi ekseni etrafında döndürülerek 
 
 Bu mantık otomobillerdeki vites oranına benzetilebilir. Düşük pal açısı, düşük vitese benzer: motor daha kolay devirlenir. Yüksek pal açısı ise daha yüksek vitese benzer: sistem daha fazla yük taşır ama uygun hızda daha verimli çalışır.
 
-![Pal Açısı ve Feather Görünümü](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/09_amtp_ch7_p2fig7-3.png)
-<!-- DİYAGRAM TUTUCU: Pal Açısı ve Feather Görünümü
-     Açıklama: Düşük pitch, yüksek pitch ve full feather konumlarını yandan ve/veya kesit görünümle anlatan teknik diyagram
-     SearchKeywords: variable pitch propeller low pitch high pitch feather diagram -->
-
+Modelde kullanılan temsilî pal açısı değerleri, C-130/T56 sistemiyle ilgili teknik referanslardan yararlanılarak aşağıdaki tabloda yaklaşık olarak belirlenmiştir.
 <!-- TABLO: Modelde Kullanılan Temsilî Pal Açısı Değerleri -->
 
 | Çalışma Bölgesi | Temsilî Pal Açısı | Açıklama |
@@ -58,6 +54,13 @@ Bu mantık otomobillerdeki vites oranına benzetilebilir. Düşük pal açısı,
 | Takeoff / Climb | ~23° – 35° | Yüksek güç, artan pal açısı |
 | Cruise / High Pitch | ~35° – 55° | Seyir verimi için yüksek pal açısı |
 | Full Feather | ~93° | Pal hava akışına paralel; minimum sürükleme |
+
+FAA kaynaklı bu şema, değişken hatveli turboprop pervanelerde pal açısının feather, power, flight idle, ground idle ve reverse bölgeleri arasında nasıl değiştiğini gösterir.
+
+![Pal Açısı ve Feather Görünümü](https://cdn.jsdelivr.net/gh/faruktoy/blog-assets@blog/image/TurboProp/09_amtp_ch7_p2fig7-3.png)
+<!-- DİYAGRAM TUTUCU: Pal Açısı ve Feather Görünümü
+     Açıklama: Düşük pitch, yüksek pitch ve full feather konumlarını yandan ve/veya kesit görünümle anlatan teknik diyagram
+     SearchKeywords: variable pitch propeller low pitch high pitch feather diagram -->
 
 ## Constant-Speed Mantığı
 
