@@ -93,7 +93,8 @@ lang: tr
 ---
 ```
 
-**`readTime` yoktur.** Gövdeden hesaplanır (kelime / 200). Front matter'a yazma.
+**`readTime` yoktur.** Gövdeden hesaplanır (kelime / 200, en az 1 dk). Front matter'a yazma.
+Değeri yayınlamadan önce görmek istersen: `.\_tools\readTime\readTime.ps1 -v`
 
 **Üretici şunlarda durur (çıkış kodu 1):** `slug`/`title` eksik · `date` ISO değil ·
 yayınlanmış yazının tarihi yok · iki yazı aynı slug veya alias'ı kullanıyor · `cover` dosyası
