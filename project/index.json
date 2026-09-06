@@ -1,0 +1,235 @@
+[
+  {
+    "slug": "turboprop",
+    "slugs": {
+      "tr": "turboprop",
+      "en": "turboprop"
+    },
+    "legacySlugs": [],
+    "published": true,
+    "featured": true,
+    "order": 1,
+    "category": "aviation",
+    "status": "completed",
+    "startDate": "",
+    "endDate": "2026-05",
+    "mdPath": "project/turboprop",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "technologies": [
+      "FDM",
+      "Arduino",
+      "Servo",
+      "PWM"
+    ],
+    "articles": [
+      "turboprop"
+    ],
+    "cover": "",
+    "gallery": [],
+    "tr": {
+      "title": "Turboprop Pervane Kontrol Modeli",
+      "description": "T56 motoru ve sabit hız pervane sistemini canlandıran 3D baskılı eğitim demonstratörü. Kontrol mantığı, NTS, feather ve air start döngüleri."
+    },
+    "en": {
+      "title": "Turboprop Propeller Control Model",
+      "description": "A 3D-printed educational demonstrator of the T56 engine and its constant-speed propeller system. Control logic, NTS, feather and air start cycles."
+    }
+  },
+  {
+    "slug": "formapis",
+    "slugs": {
+      "tr": "formapis",
+      "en": "formapis"
+    },
+    "legacySlugs": [],
+    "published": true,
+    "featured": true,
+    "order": 2,
+    "category": "software",
+    "status": "completed",
+    "startDate": "",
+    "endDate": "",
+    "mdPath": "project/formapis",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "technologies": [
+      "Python",
+      "OMR",
+      "SQL"
+    ],
+    "articles": [],
+    "cover": "",
+    "gallery": [],
+    "tr": {
+      "title": "formAPIS — Optik Okuma Platformu",
+      "description": "Sıradan tarayıcı çıktısındaki cevap kâğıtlarını okuyup yapılandırılmış ve puanlanmış sonuca dönüştüren optik okuma platformu."
+    },
+    "en": {
+      "title": "formAPIS — Optical Mark Recognition Platform",
+      "description": "An optical mark recognition platform that reads answer sheets from ordinary scanner output and turns them into structured, scored results."
+    }
+  },
+  {
+    "slug": "e3a",
+    "slugs": {
+      "tr": "e3a",
+      "en": "e3a"
+    },
+    "legacySlugs": [
+      "E3A"
+    ],
+    "published": false,
+    "featured": true,
+    "order": 3,
+    "category": "maker",
+    "status": "completed",
+    "startDate": "2023-05",
+    "endDate": "2024-03",
+    "mdPath": "project/e3a",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "technologies": [
+      "SolidWorks",
+      "AutoCAD",
+      "FDM",
+      "CAD/CAM"
+    ],
+    "articles": [
+      "p3steel-build-log"
+    ],
+    "cover": "",
+    "gallery": [],
+    "tr": {
+      "title": "Özel Yapım FDM 3D Yazıcı",
+      "description": "P3Steel tabanlı bir platformdan başlayıp mekanik, elektronik ve yazılım tarafında uzun süreli revizyonlarla kapalı, hibrit bir FDM 3B yazıcıya dönüştürdüğüm kişisel üretim projesi."
+    },
+    "en": {
+      "title": "Custom P3Steel-Based FDM 3D Printer",
+      "description": "A personal build project: starting from a P3Steel platform and turning it into an enclosed, hybrid FDM 3D printer through a year of mechanical, electronic and firmware revisions."
+    }
+  },
+  {
+    "slug": "ucak-sensor-prototipleri",
+    "slugs": {
+      "tr": "ucak-sensor-prototipleri",
+      "en": "aircraft-sensor-prototypes"
+    },
+    "legacySlugs": [],
+    "published": false,
+    "featured": false,
+    "order": 4,
+    "category": "aviation",
+    "status": "",
+    "startDate": "",
+    "endDate": "",
+    "mdPath": "project/ucak-sensor-prototipleri",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "technologies": [
+      "SolidWorks",
+      "FDM",
+      "ABS/CF"
+    ],
+    "articles": [
+      "abs-cf-prototipleme"
+    ],
+    "cover": "",
+    "gallery": [],
+    "tr": {
+      "title": "Uçak Sensör Prototipleri",
+      "description": "Gerçek uçak parçalarından ölçü alarak Pitot tüp, AOA, Ice Detector 3D modelleme ve baskıları."
+    },
+    "en": {
+      "title": "Aircraft Sensor Prototypes",
+      "description": "Measured real aircraft parts to 3D model and print Pitot tube, AOA sensor, and Ice Detector."
+    }
+  },
+  {
+    "slug": "envagrid",
+    "slugs": {
+      "tr": "envagrid",
+      "en": "envagrid"
+    },
+    "legacySlugs": [
+      "akilli-stok-takip",
+      "smart-inventory-tracker"
+    ],
+    "published": false,
+    "featured": false,
+    "order": 5,
+    "category": "software",
+    "status": "",
+    "startDate": "",
+    "endDate": "",
+    "mdPath": "project/envagrid",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "technologies": [
+      "Android",
+      "Windows",
+      "Web",
+      "AI",
+      "Local-First"
+    ],
+    "articles": [],
+    "cover": "",
+    "gallery": [],
+    "tr": {
+      "title": "envaGrid — Stok Takip Uygulaması",
+      "description": "Yapay zeka destekli, Android, Windows ve Web tabanlı local-first stok takip uygulaması."
+    },
+    "en": {
+      "title": "envaGrid — Inventory Tracking App",
+      "description": "AI-powered, local-first inventory tracking app for Android, Windows, and Web."
+    }
+  },
+  {
+    "slug": "halaskar",
+    "slugs": {
+      "tr": "halaskar",
+      "en": "halaskar"
+    },
+    "legacySlugs": [
+      "akademik-cad-destegi",
+      "academic-cad-support"
+    ],
+    "published": true,
+    "featured": false,
+    "order": 6,
+    "category": "academic",
+    "status": "",
+    "startDate": "",
+    "endDate": "",
+    "mdPath": "project/halaskar",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "technologies": [
+      "CAD",
+      "Mockup"
+    ],
+    "articles": [],
+    "cover": "",
+    "gallery": [],
+    "tr": {
+      "title": "Halaskâr — İHA Tabanlı Yangın Söndürme Platformu",
+      "description": "İHA/SİHA platformlarını orman yangınlarında erken tespit ve ilk müdahale için aktif yangın söndürme platformuna dönüştüren modüler ürün ailesi."
+    },
+    "en": {
+      "title": "Halaskâr — UAV-Based Fire Suppression Platform",
+      "description": "A modular product family that turns UAV/UCAV platforms into active fire suppression platforms for early detection and first response to forest fires."
+    }
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "slug": "e3a",
+  "legacySlugs": [
+    "E3A"
+  ],
+  "slugs": {
+    "tr": "e3a",
+    "en": "e3a"
+  },
+  "status": "completed",
+  "startDate": "2023-05",
+  "endDate": "2024-03",
+  "category": "maker",
+  "featured": true,
+  "order": 3,
+  "published": false,
+  "technologies": [
+    "SolidWorks",
+    "AutoCAD",
+    "FDM",
+    "CAD/CAM"
+  ],
+  "cover": "",
+  "gallery": [],
+  "articles": [
+    "p3steel-build-log"
+  ],
+  "shortTitle": "E3A"
+}

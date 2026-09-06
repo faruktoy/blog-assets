@@ -1,0 +1,26 @@
+{
+  "slug": "turboprop",
+  "legacySlugs": [],
+  "slugs": {
+    "tr": "turboprop",
+    "en": "turboprop"
+  },
+  "status": "completed",
+  "startDate": "",
+  "endDate": "2026-05",
+  "category": "aviation",
+  "featured": true,
+  "order": 1,
+  "published": true,
+  "technologies": [
+    "FDM",
+    "Arduino",
+    "Servo",
+    "PWM"
+  ],
+  "cover": "",
+  "gallery": [],
+  "articles": [
+    "turboprop"
+  ]
+}

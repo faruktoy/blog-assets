@@ -1,0 +1,29 @@
+{
+  "slug": "envagrid",
+  "legacySlugs": [
+    "akilli-stok-takip",
+    "smart-inventory-tracker"
+  ],
+  "slugs": {
+    "tr": "envagrid",
+    "en": "envagrid"
+  },
+  "status": "",
+  "startDate": "",
+  "endDate": "",
+  "category": "software",
+  "featured": false,
+  "order": 5,
+  "published": false,
+  "technologies": [
+    "Android",
+    "Windows",
+    "Web",
+    "AI",
+    "Local-First"
+  ],
+  "cover": "",
+  "gallery": [],
+  "articles": [],
+  "mdPath": "project/envagrid"
+}

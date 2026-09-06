@@ -1,0 +1,23 @@
+{
+  "slug": "formapis",
+  "legacySlugs": [],
+  "slugs": {
+    "tr": "formapis",
+    "en": "formapis"
+  },
+  "status": "completed",
+  "startDate": "",
+  "endDate": "",
+  "category": "software",
+  "featured": true,
+  "order": 2,
+  "published": true,
+  "technologies": [
+    "Python",
+    "OMR",
+    "SQL"
+  ],
+  "cover": "",
+  "gallery": [],
+  "articles": []
+}

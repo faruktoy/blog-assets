@@ -1,0 +1,150 @@
+[
+  {
+    "slug": "p3steel-build-log",
+    "slugs": {
+      "tr": "p3steel-kurulum",
+      "en": "p3steel-build-log"
+    },
+    "published": false,
+    "featured": false,
+    "category": "printing",
+    "cover": "",
+    "mdPath": "blog/post/p3steel-build-log",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "tags": [
+      "P3Steel",
+      "FDM",
+      "SolidWorks",
+      "AutoCAD",
+      "Mechanical Design",
+      "Calibration"
+    ],
+    "relatedProject": "e3a",
+    "tr": {
+      "title": "P3Steel'den E3A'ya: Bir 3B Yazıcıyı Kurmak Değil, Geliştirmek",
+      "description": "Standart bir P3Steel kurulumuyla başlayan ve yaklaşık bir yıl boyunca mekanik, elektronik, CAD ve yazılım revizyonlarıyla kapalı bir FDM platformuna dönüşen E3A projesinin teknik geliştirme günlüğü.",
+      "date": "2026-09-04",
+      "readTime": "1 dk okuma"
+    },
+    "en": {
+      "title": "From P3Steel to E3A: Building a 3D Printer Is Not the Same as Developing One",
+      "description": "A technical build log of E3A: a stock P3Steel setup turned into an enclosed FDM platform over roughly a year of mechanical, CAD, electronics and firmware revisions.",
+      "date": "2026-09-04",
+      "readTime": "1 min read"
+    }
+  },
+  {
+    "slug": "turboprop",
+    "slugs": {
+      "tr": "turboprop",
+      "en": "turboprop-demonstrator"
+    },
+    "published": true,
+    "featured": true,
+    "category": "aviation",
+    "cover": "",
+    "mdPath": "blog/post/turboprop",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "tags": [
+      "Turboprop",
+      "C-130",
+      "T56",
+      "R391",
+      "3D Baskı",
+      "Pervane Kontrolü"
+    ],
+    "legacySlugs": [
+      "en/turboprop"
+    ],
+    "relatedProject": "turboprop",
+    "tr": {
+      "title": "Turboprop Motorlarda Pervane Kontrol Mantığı: C-130 Esintili 3D Eğitim Modeli",
+      "description": "T56 motoru ve sabit hız pervane sistemini canlandıran 3D baskılı eğitim modeli. Kontrol mantığı, NTS, feather ve air start döngüleri.",
+      "date": "2026-05-21",
+      "readTime": "14 dk okuma"
+    },
+    "en": {
+      "title": "Propeller Control Logic in Turboprop Engines: A C-130-Inspired 3D Training Model",
+      "description": "A 3D-printed educational model simulating the T56 engine and constant-speed propeller control logic, NTS, feather, and air start cycles.",
+      "date": "2026-05-21",
+      "readTime": "16 min read"
+    }
+  },
+  {
+    "slug": "fdm-yuzey-kalitesi",
+    "slugs": {
+      "tr": "fdmRA",
+      "en": "ra-in-fdm"
+    },
+    "published": true,
+    "featured": true,
+    "category": "printing",
+    "cover": "",
+    "mdPath": "blog/post/fdm-yuzey-kalitesi",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "tags": [
+      "3D Baskı",
+      "FDM",
+      "Yüzey Pürüzlülüğü",
+      "Ra",
+      "Araştırma"
+    ],
+    "tr": {
+      "title": "FDM Baskılarda Yüzey Kalitesini Artırmak: PLA vs ABS vs PETG",
+      "description": "Beş akademik kaynağı çapraz karşılaştırarak katman yüksekliği, hız, sıcaklık ve Z wobble'ın Ra'ya etkisini inceliyorum.",
+      "date": "2026-04-30",
+      "readTime": "7 dk okuma"
+    },
+    "en": {
+      "title": "Improving Surface Quality in FDM Prints: PLA vs ABS vs PETG",
+      "description": "Cross-comparing five academic sources on how layer height, speed, temperature and Z wobble affect Ra.",
+      "date": "2026-04-30",
+      "readTime": "8 min read"
+    }
+  },
+  {
+    "slug": "abs-cf-prototipleme",
+    "slugs": {
+      "tr": "abs-cf-prototipleme",
+      "en": "abs-cf-prototyping"
+    },
+    "published": false,
+    "featured": false,
+    "category": "aviation",
+    "cover": "",
+    "mdPath": "blog/post/abs-cf-prototipleme",
+    "mdFiles": {
+      "tr": "tr.md",
+      "en": "en.md"
+    },
+    "tags": [
+      "ABS",
+      "CF",
+      "Prototipleme",
+      "Uçak",
+      "3D Baskı"
+    ],
+    "relatedProject": "ucak-sensor-prototipleri",
+    "tr": {
+      "title": "Gerçek Uçak Parçası Modelleme",
+      "description": "ABS ile gerçek uçak sensörü modelleri basarken karşılaştığım sorunlar ve çözümler.",
+      "date": "",
+      "readTime": "1 dk okuma"
+    },
+    "en": {
+      "title": "Real Aircraft Part Modeling",
+      "description": "Problems and solutions printing real aircraft sensor models with ABS.",
+      "date": "",
+      "readTime": "1 min read"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "slug": "halaskar",
+  "legacySlugs": [
+    "akademik-cad-destegi",
+    "academic-cad-support"
+  ],
+  "slugs": {
+    "tr": "halaskar",
+    "en": "halaskar"
+  },
+  "status": "",
+  "startDate": "",
+  "endDate": "",
+  "category": "academic",
+  "featured": false,
+  "order": 6,
+  "published": true,
+  "technologies": [
+    "CAD",
+    "Mockup"
+  ],
+  "cover": "",
+  "gallery": [],
+  "articles": []
+}

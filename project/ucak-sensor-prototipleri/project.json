@@ -1,0 +1,25 @@
+{
+  "slug": "ucak-sensor-prototipleri",
+  "legacySlugs": [],
+  "slugs": {
+    "tr": "ucak-sensor-prototipleri",
+    "en": "aircraft-sensor-prototypes"
+  },
+  "status": "",
+  "startDate": "",
+  "endDate": "",
+  "category": "aviation",
+  "featured": false,
+  "order": 4,
+  "published": false,
+  "technologies": [
+    "SolidWorks",
+    "FDM",
+    "ABS/CF"
+  ],
+  "cover": "",
+  "gallery": [],
+  "articles": [
+    "abs-cf-prototipleme"
+  ]
+}
